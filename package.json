@@ -1,0 +1,11 @@
+{
+  "name": "reactor",
+  "version": "1.0.0",
+  "description": "Messenger style chat app using react, node.js, mongodb, and express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacques Begin",
+  "license": "ISC"
+}
